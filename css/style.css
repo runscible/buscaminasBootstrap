@@ -1,0 +1,40 @@
+
+.jumbotron{
+	text-align: center;
+	height: 50	px;
+	padding: 0px;
+	margin: 10px;
+	width: 140px;
+	background-color: #00e64d;		
+}
+.glyphicon{
+	font-size: 40px;
+	text-align: center;
+	color: black;
+}
+.glyphicon:hover{
+	color: #ff0000;
+}
+.container{
+	background-color: #ffff99;
+	border:10px dotted;
+	border-radius: 20px;
+
+}
+body{
+	background-color: #ff5500;
+}
+img{
+	height: 50px;
+	width: 50px;
+	align: center;
+}
+#enlace{
+	text-align: center;
+	padding: 20px;
+}
+
+/*///////////fila 1//////////*/
+ 
+ 	
+ 
